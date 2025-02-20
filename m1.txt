@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Welcome to Shreeyan Shopping Center</title>
+<title>Shreeyan Shopping Center</title>
 </head>
 
 <body>
