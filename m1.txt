@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Welcome to Shreeyan Shopping Center</title>
+</head>
+
+<body>
+<h1> Login Page </h1>
+
+
+<input tpye = "text" placeholder ="Username">
+<input tpye = "password" placeholder ="Password">
+<input tpye = "submit" value ="Login">
+</body>
+</html>
